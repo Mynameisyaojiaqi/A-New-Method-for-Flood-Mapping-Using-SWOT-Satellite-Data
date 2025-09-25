@@ -39,6 +39,7 @@ Based on the submitted paper:
 <img width="463" height="411" alt="image" src="https://github.com/user-attachments/assets/5e2dc5cd-9be1-416a-afb3-cd7019bc5251" />
 
 Figure 4. SWOT-derived flood volume and peak timing in three representative regions. a. SWOT and mathematical model used to fit the conceptual schematic diagram of flood volume. b1-b3. Flood Volume for Baihe River, Miyun Reservoir, and Chaobai River. c1-c3. Peak Arrival Time for Baihe River, Miyun Reservoir, and Chaobai River(Days since June 27).
+
 <img width="554" height="478" alt="image" src="https://github.com/user-attachments/assets/a8bf01ff-e419-4cfb-b5d0-6b343e678f13" />
 
 Figure 5 Water surface elevation map before and after the rainstorm. a1-a3, the water surface elevation of Baihe River, Miyun Reservoir, and the Chaobai River before the heavy rainstorm. b1-b3, the water surface elevation of the same locations after the heavy rainstorm. c1-c3, water surface elevation Changes caused by the heavy rainstorm.
