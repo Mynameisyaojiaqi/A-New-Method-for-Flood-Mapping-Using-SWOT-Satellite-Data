@@ -1,0 +1,2 @@
+# A-New-Method-for-Flood-Mapping-Using-SWOT-Satellite-Data
+This repository offers code, sample data, and tools for flood mapping with SWOT (Surface Water and Ocean Topography) satellite water surface elevation (WSE). Case studies include Gangnan and Miyun Reservoirs. Features: SWOT data preprocessing, noise removal, flood volume estimation, model integration, and visualizations (GeoTIFF, time series).
