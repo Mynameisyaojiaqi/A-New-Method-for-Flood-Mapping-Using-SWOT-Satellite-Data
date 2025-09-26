@@ -27,6 +27,7 @@ Case 1: Gangnan Reservoir (Hebei, China)
 📄 Based on:
 Yao et al. (2025), “3-D Flood Mapping from SWOT Observations during Extreme Rainfall”, International Journal of Digital Earth.
 DOI: 10.1080/17538947.2025.2544916
+
 🔹 Input
 
 SWOT L2_HR_Raster WSE products
