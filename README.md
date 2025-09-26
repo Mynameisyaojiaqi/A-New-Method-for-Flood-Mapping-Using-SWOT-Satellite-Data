@@ -1,4 +1,4 @@
-# A New Method for Flood Mapping Using SWOT Satellite Data
+🌊 A New Method for Flood Mapping Using SWOT Flood Volume Estimation (SWOT-FVE)
 Introduction
 This repository provides code, sample data, and visualization materials for two case studies of flood monitoring and modeling using SWOT (Surface Water and Ocean Topography) satellite water surface elevation (WSE) observations.
 
