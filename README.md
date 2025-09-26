@@ -21,6 +21,7 @@ SWOT-FVE/
 │── figures/             # All figures used in README + papers
 │── README.md            # Project documentation
 ```
+---
 ## 📘 Case Studies
 Case 1: Gangnan Reservoir (Hebei, China)
 📄 Based on:
@@ -56,7 +57,7 @@ flood_volume = estimate_volume(wse_data, method="PDF")
 
 🔹 Visualization
 <p align="center"> <img src="figures/gangnan_overview.png" width="500"/> <br> <em>Fig.1. Overview of the Gangnan Reservoir study area</em> </p>
-
+---
 Case 2: Miyun Reservoir (Beijing, China)
 
 📄 Based on (under review):
@@ -85,7 +86,7 @@ results = integrate_wse("data/Miyun_WSE.nc", model="GR4J")
 ```
 🔹 Visualization
 <p align="center"> <img src="figures/miyun_results.png" width="500"/> <br> <em>Fig.2. SWOT-derived flood volume & peak arrival time</em> </p>
-
+---
 ⚙️ Requirements
 
 Python 3.9+
