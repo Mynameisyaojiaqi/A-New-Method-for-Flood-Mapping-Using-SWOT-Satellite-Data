@@ -1,26 +1,3 @@
-# 🌊 A New Method for Flood Mapping Using SWOT Flood Volume Estimation (SWOT-FVE)
-
-## ✨ Overview
-This repository provides codes, sample data, and visualization materials for two case studies of **flood monitoring and modeling** using **SWOT (Surface Water and Ocean Topography)** satellite **Water Surface Elevation (WSE)** observations.
-
-## 🔑 Key Features
-- **SWOT Data Preprocessing** → Read & filter `L2_HR_Raster (WSE)` and quality grids  
-- **Noise Removal** → Fourier transform–based denoising for striping artifacts  
-- **Flood Volume Estimation** → Estimate monthly flood volume using PDF/CDF methods  
-- **Flood Modeling** → Integrate SWOT-derived WSE into hydrological models  
-- **Visualization** → Generate GeoTIFF maps, time series plots, and flood risk figures  
-
----
-
-## 📂 Repository Structure
-```bash
-SWOT-FVE/
-│── data/                # Sample SWOT WSE data
-│── src/                 # Preprocessing, modeling & visualization scripts
-│── results/             # Case study outputs (GeoTIFFs, plots, stats)
-│── figures/             # All figures used in README + papers
-│── README.md            # Project documentation
-
 📘 Case Studies
 Case 1: Gangnan Reservoir (Hebei, China)
 
